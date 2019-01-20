@@ -3,7 +3,7 @@ SSRR
 兼容SSRPanel的自改版SSR(R)后端，可兼容原版SS、SSR
 
 ## 安装
-- wget https://github.com/ssrpanel/shadowsocksr/archive/master.zip && unzip master && mv shadowsocksr-master shadowsocksr
+- wget https://github.com/lcboy/shadowsocksr/archive/master.zip && unzip master && mv shadowsocksr-master shadowsocksr
 
 ## 更新软件源
 #### CentOS
